@@ -6,7 +6,7 @@ Desde la carpeta correspondiente se pueden ejecutar los siguientes comandos:
 
 1. `npm install`: Instala todas las dependencias necesarias para correr el proyecto correctamente. [Es necesario correrlo sólo la primera vez]
 
-2. `npm start`: Comienza a correr la aplicación de forma local por lo que se puede ver desde el navegador accediendo a http://localhost:3000
+2. `npm run dev`: Comienza a correr la aplicación de forma local por lo que se puede ver desde el navegador accediendo a http://127.0.0.1:5173/
 
 No es necesario volver a correr el proyecto cada vez que se realice un cambio sino que se verá automáticamente reflejando en el navegador.
 

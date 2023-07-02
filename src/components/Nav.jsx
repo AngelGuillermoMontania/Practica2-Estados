@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../images/logoAda.png";
+import Logo from "../assets/logoAda.png";
 import SearchBar from "./SearchBar.jsx";
 
 function Nav({ onSearch }) {

@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
-import ContainCards from "./components/ContainCard.jsx";
+import ContainCard from "./components/ContainCard.jsx";
 import Nav from "./components/Nav.jsx";
 
 export default function App() {
